@@ -1,0 +1,11 @@
+transaction_id, date, amount, description
+11, 2023-10-11,-75.5, Grocery shopping
+12, 2023-10-12,-30.25, Gasoline
+13, 2023-10-13,-45.75, Restaurant dinner
+14, 2023-10-14,-12.5, Coffee shop
+15, 2023-10-15,-200.0, Electronics purchase
+16, 2023-10-16,80.0, Clothing shopping
+17, 2023-10-17,-20.0, Movie tickets
+18, 2023-10-18,150.0, Freelance work payment
+19, 2023-10-19,-60.0, Health insurance
+20, 2023-10-20,500.0, Salary deposit
